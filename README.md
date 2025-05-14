@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lexreynolds03
-- 👀 I’m interested in ... Data Structures and Algos, and AI.
+- 👀 I’m interested in ... Data Analysis, SQL, and AI.
 - 🌱 I’m currently learning ... java, python and SQL.
 - 💞️ I’m looking to collaborate on ... anything at all!
 - 📫 How to reach me ... email @lexreynolds03@gmail.com.
